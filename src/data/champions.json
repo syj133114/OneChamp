@@ -1,0 +1,1865 @@
+{
+  "version": "16.21.1",
+  "champions": [
+    {
+      "id": "Aatrox",
+      "key": "266",
+      "name": "아트록스",
+      "englishName": "Aatrox",
+      "title": "다르킨의 검",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Ahri",
+      "key": "103",
+      "name": "아리",
+      "englishName": "Ahri",
+      "title": "구미호",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Akali",
+      "key": "84",
+      "name": "아칼리",
+      "englishName": "Akali",
+      "title": "섬기는 이 없는 암살자",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Akshan",
+      "key": "166",
+      "name": "아크샨",
+      "englishName": "Akshan",
+      "title": "떠도는 감시자",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Alistar",
+      "key": "12",
+      "name": "알리스타",
+      "englishName": "Alistar",
+      "title": "미노타우로스",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Ambessa",
+      "key": "799",
+      "name": "암베사",
+      "englishName": "Ambessa",
+      "title": "전장의 우두머리",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Amumu",
+      "key": "32",
+      "name": "아무무",
+      "englishName": "Amumu",
+      "title": "슬픈 미라",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Anivia",
+      "key": "34",
+      "name": "애니비아",
+      "englishName": "Anivia",
+      "title": "얼음불사조",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Annie",
+      "key": "1",
+      "name": "애니",
+      "englishName": "Annie",
+      "title": "어둠의 아이",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Aphelios",
+      "key": "523",
+      "name": "아펠리오스",
+      "englishName": "Aphelios",
+      "title": "신념의 무기",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Ashe",
+      "key": "22",
+      "name": "애쉬",
+      "englishName": "Ashe",
+      "title": "서리 궁수",
+      "tags": [
+        "Marksman",
+        "Support"
+      ]
+    },
+    {
+      "id": "AurelionSol",
+      "key": "136",
+      "name": "아우렐리온 솔",
+      "englishName": "Aurelion Sol",
+      "title": "별의 창조자",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Aurora",
+      "key": "893",
+      "name": "오로라",
+      "englishName": "Aurora",
+      "title": "세계의 경계에 선 마녀",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Azir",
+      "key": "268",
+      "name": "아지르",
+      "englishName": "Azir",
+      "title": "사막의 황제",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Bard",
+      "key": "432",
+      "name": "바드",
+      "englishName": "Bard",
+      "title": "영겁의 수호자",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Belveth",
+      "key": "200",
+      "name": "벨베스",
+      "englishName": "Bel'Veth",
+      "title": "공허의 여제",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Blitzcrank",
+      "key": "53",
+      "name": "블리츠크랭크",
+      "englishName": "Blitzcrank",
+      "title": "거대 증기 골렘",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Brand",
+      "key": "63",
+      "name": "브랜드",
+      "englishName": "Brand",
+      "title": "타오르는 복수",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Braum",
+      "key": "201",
+      "name": "브라움",
+      "englishName": "Braum",
+      "title": "프렐요드의 심장",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Briar",
+      "key": "233",
+      "name": "브라이어",
+      "englishName": "Briar",
+      "title": "억눌린 허기",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Caitlyn",
+      "key": "51",
+      "name": "케이틀린",
+      "englishName": "Caitlyn",
+      "title": "필트오버의 보안관",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Camille",
+      "key": "164",
+      "name": "카밀",
+      "englishName": "Camille",
+      "title": "강철의 그림자",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Cassiopeia",
+      "key": "69",
+      "name": "카시오페아",
+      "englishName": "Cassiopeia",
+      "title": "독사의 포옹",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Chogath",
+      "key": "31",
+      "name": "초가스",
+      "englishName": "Cho'Gath",
+      "title": "공허의 공포",
+      "tags": [
+        "Tank",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Corki",
+      "key": "42",
+      "name": "코르키",
+      "englishName": "Corki",
+      "title": "대담한 폭격수",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Darius",
+      "key": "122",
+      "name": "다리우스",
+      "englishName": "Darius",
+      "title": "녹서스의 실력자",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Diana",
+      "key": "131",
+      "name": "다이애나",
+      "englishName": "Diana",
+      "title": "차가운 달의 분노",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Draven",
+      "key": "119",
+      "name": "드레이븐",
+      "englishName": "Draven",
+      "title": "화려한 처형자",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "DrMundo",
+      "key": "36",
+      "name": "문도 박사",
+      "englishName": "Dr. Mundo",
+      "title": "자운의 광인",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Ekko",
+      "key": "245",
+      "name": "에코",
+      "englishName": "Ekko",
+      "title": "시간을 달리는 소년",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Elise",
+      "key": "60",
+      "name": "엘리스",
+      "englishName": "Elise",
+      "title": "거미 여왕",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Evelynn",
+      "key": "28",
+      "name": "이블린",
+      "englishName": "Evelynn",
+      "title": "고통스런 포옹",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Ezreal",
+      "key": "81",
+      "name": "이즈리얼",
+      "englishName": "Ezreal",
+      "title": "무모한 탐험가",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Fiddlesticks",
+      "key": "9",
+      "name": "피들스틱",
+      "englishName": "Fiddlesticks",
+      "title": "오래된 공포",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Fiora",
+      "key": "114",
+      "name": "피오라",
+      "englishName": "Fiora",
+      "title": "결투의 대가",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Fizz",
+      "key": "105",
+      "name": "피즈",
+      "englishName": "Fizz",
+      "title": "대양의 말썽꾸러기",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Galio",
+      "key": "3",
+      "name": "갈리오",
+      "englishName": "Galio",
+      "title": "위대한 석상",
+      "tags": [
+        "Tank",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Gangplank",
+      "key": "41",
+      "name": "갱플랭크",
+      "englishName": "Gangplank",
+      "title": "바다의 무법자",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Garen",
+      "key": "86",
+      "name": "가렌",
+      "englishName": "Garen",
+      "title": "데마시아의 힘",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Gnar",
+      "key": "150",
+      "name": "나르",
+      "englishName": "Gnar",
+      "title": "잃어버린 고리",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Gragas",
+      "key": "79",
+      "name": "그라가스",
+      "englishName": "Gragas",
+      "title": "술취한 난동꾼",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Graves",
+      "key": "104",
+      "name": "그레이브즈",
+      "englishName": "Graves",
+      "title": "무법자",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Gwen",
+      "key": "887",
+      "name": "그웬",
+      "englishName": "Gwen",
+      "title": "신성한 재봉사",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Hecarim",
+      "key": "120",
+      "name": "헤카림",
+      "englishName": "Hecarim",
+      "title": "전쟁의 전조",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Heimerdinger",
+      "key": "74",
+      "name": "하이머딩거",
+      "englishName": "Heimerdinger",
+      "title": "위대한 발명가",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Hwei",
+      "key": "910",
+      "name": "흐웨이",
+      "englishName": "Hwei",
+      "title": "몽상가",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Illaoi",
+      "key": "420",
+      "name": "일라오이",
+      "englishName": "Illaoi",
+      "title": "크라켄의 여사제",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Irelia",
+      "key": "39",
+      "name": "이렐리아",
+      "englishName": "Irelia",
+      "title": "칼날 무희",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Ivern",
+      "key": "427",
+      "name": "아이번",
+      "englishName": "Ivern",
+      "title": "자연의 아버지",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Janna",
+      "key": "40",
+      "name": "잔나",
+      "englishName": "Janna",
+      "title": "폭풍의 분노",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "JarvanIV",
+      "key": "59",
+      "name": "자르반 4세",
+      "englishName": "Jarvan IV",
+      "title": "데마시아의 귀감",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Jax",
+      "key": "24",
+      "name": "잭스",
+      "englishName": "Jax",
+      "title": "무기의 달인",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Jayce",
+      "key": "126",
+      "name": "제이스",
+      "englishName": "Jayce",
+      "title": "미래의 수호자",
+      "tags": [
+        "Fighter",
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Jhin",
+      "key": "202",
+      "name": "진",
+      "englishName": "Jhin",
+      "title": "잔혹극의 거장",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Jinx",
+      "key": "222",
+      "name": "징크스",
+      "englishName": "Jinx",
+      "title": "난폭한 말괄량이",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Kaisa",
+      "key": "145",
+      "name": "카이사",
+      "englishName": "Kai'Sa",
+      "title": "공허의 딸",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Kalista",
+      "key": "429",
+      "name": "칼리스타",
+      "englishName": "Kalista",
+      "title": "복수의 화신",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Karma",
+      "key": "43",
+      "name": "카르마",
+      "englishName": "Karma",
+      "title": "깨우친 자",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Karthus",
+      "key": "30",
+      "name": "카서스",
+      "englishName": "Karthus",
+      "title": "죽음을 노래하는 자",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Kassadin",
+      "key": "38",
+      "name": "카사딘",
+      "englishName": "Kassadin",
+      "title": "공허의 방랑자",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Katarina",
+      "key": "55",
+      "name": "카타리나",
+      "englishName": "Katarina",
+      "title": "사악한 칼날",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Kayle",
+      "key": "10",
+      "name": "케일",
+      "englishName": "Kayle",
+      "title": "정의로운 자",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Kayn",
+      "key": "141",
+      "name": "케인",
+      "englishName": "Kayn",
+      "title": "그림자 사신",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Kennen",
+      "key": "85",
+      "name": "케넨",
+      "englishName": "Kennen",
+      "title": "폭풍의 심장",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Khazix",
+      "key": "121",
+      "name": "카직스",
+      "englishName": "Kha'Zix",
+      "title": "공허의 약탈자",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Kindred",
+      "key": "203",
+      "name": "킨드레드",
+      "englishName": "Kindred",
+      "title": "영겁의 사냥꾼",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Kled",
+      "key": "240",
+      "name": "클레드",
+      "englishName": "Kled",
+      "title": "망나니 기사",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "KogMaw",
+      "key": "96",
+      "name": "코그모",
+      "englishName": "Kog'Maw",
+      "title": "심연의 아귀",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "KSante",
+      "key": "897",
+      "name": "크산테",
+      "englishName": "K'Sante",
+      "title": "나주마의 긍지",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Leblanc",
+      "key": "7",
+      "name": "르블랑",
+      "englishName": "LeBlanc",
+      "title": "환술사",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "LeeSin",
+      "key": "64",
+      "name": "리 신",
+      "englishName": "Lee Sin",
+      "title": "눈먼 수도승",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Leona",
+      "key": "89",
+      "name": "레오나",
+      "englishName": "Leona",
+      "title": "여명의 빛",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Lillia",
+      "key": "876",
+      "name": "릴리아",
+      "englishName": "Lillia",
+      "title": "수줍은 꽃",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Lissandra",
+      "key": "127",
+      "name": "리산드라",
+      "englishName": "Lissandra",
+      "title": "얼음 마녀",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Locke",
+      "key": "805",
+      "name": "로크",
+      "englishName": "Locke",
+      "title": "잿빛 퇴마사",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Lucian",
+      "key": "236",
+      "name": "루시안",
+      "englishName": "Lucian",
+      "title": "정화의 사도",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Lulu",
+      "key": "117",
+      "name": "룰루",
+      "englishName": "Lulu",
+      "title": "요정 마법사",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Lux",
+      "key": "99",
+      "name": "럭스",
+      "englishName": "Lux",
+      "title": "광명의 소녀",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Malphite",
+      "key": "54",
+      "name": "말파이트",
+      "englishName": "Malphite",
+      "title": "거석의 파편",
+      "tags": [
+        "Tank",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Malzahar",
+      "key": "90",
+      "name": "말자하",
+      "englishName": "Malzahar",
+      "title": "공허의 예언자",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Maokai",
+      "key": "57",
+      "name": "마오카이",
+      "englishName": "Maokai",
+      "title": "뒤틀린 나무 정령",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "MasterYi",
+      "key": "11",
+      "name": "마스터 이",
+      "englishName": "Master Yi",
+      "title": "우주 검사",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Mel",
+      "key": "800",
+      "name": "멜",
+      "englishName": "Mel",
+      "title": "영혼의 반향",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Milio",
+      "key": "902",
+      "name": "밀리오",
+      "englishName": "Milio",
+      "title": "온화한 불꽃",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "MissFortune",
+      "key": "21",
+      "name": "미스 포츈",
+      "englishName": "Miss Fortune",
+      "title": "현상금 사냥꾼",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "MonkeyKing",
+      "key": "62",
+      "name": "오공",
+      "englishName": "Wukong",
+      "title": "원숭이 왕",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Mordekaiser",
+      "key": "82",
+      "name": "모데카이저",
+      "englishName": "Mordekaiser",
+      "title": "강철의 망령",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Morgana",
+      "key": "25",
+      "name": "모르가나",
+      "englishName": "Morgana",
+      "title": "타락한 자",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Naafiri",
+      "key": "950",
+      "name": "나피리",
+      "englishName": "Naafiri",
+      "title": "백 번 무는 사냥개",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Nami",
+      "key": "267",
+      "name": "나미",
+      "englishName": "Nami",
+      "title": "파도 소환사",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Nasus",
+      "key": "75",
+      "name": "나서스",
+      "englishName": "Nasus",
+      "title": "사막의 관리자",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Nautilus",
+      "key": "111",
+      "name": "노틸러스",
+      "englishName": "Nautilus",
+      "title": "심해의 타이탄",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Neeko",
+      "key": "518",
+      "name": "니코",
+      "englishName": "Neeko",
+      "title": "알쏭달쏭 카멜레온",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Nidalee",
+      "key": "76",
+      "name": "니달리",
+      "englishName": "Nidalee",
+      "title": "야성의 사냥꾼",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Nilah",
+      "key": "895",
+      "name": "닐라",
+      "englishName": "Nilah",
+      "title": "해방된 기쁨",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Nocturne",
+      "key": "56",
+      "name": "녹턴",
+      "englishName": "Nocturne",
+      "title": "영원한 악몽",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Nunu",
+      "key": "20",
+      "name": "누누와 윌럼프",
+      "englishName": "Nunu & Willump",
+      "title": "소년과 설인",
+      "tags": [
+        "Tank",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Olaf",
+      "key": "2",
+      "name": "올라프",
+      "englishName": "Olaf",
+      "title": "광전사",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Orianna",
+      "key": "61",
+      "name": "오리아나",
+      "englishName": "Orianna",
+      "title": "시계태엽 소녀",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Ornn",
+      "key": "516",
+      "name": "오른",
+      "englishName": "Ornn",
+      "title": "거산의 화염",
+      "tags": [
+        "Tank"
+      ]
+    },
+    {
+      "id": "Pantheon",
+      "key": "80",
+      "name": "판테온",
+      "englishName": "Pantheon",
+      "title": "불굴의 창",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Poppy",
+      "key": "78",
+      "name": "뽀삐",
+      "englishName": "Poppy",
+      "title": "망치의 수호자",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Pyke",
+      "key": "555",
+      "name": "파이크",
+      "englishName": "Pyke",
+      "title": "핏빛 항구의 학살자",
+      "tags": [
+        "Support",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Qiyana",
+      "key": "246",
+      "name": "키아나",
+      "englishName": "Qiyana",
+      "title": "원소의 여왕",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Quinn",
+      "key": "133",
+      "name": "퀸",
+      "englishName": "Quinn",
+      "title": "데마시아의 날개",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Rakan",
+      "key": "497",
+      "name": "라칸",
+      "englishName": "Rakan",
+      "title": "매혹하는 자",
+      "tags": [
+        "Support"
+      ]
+    },
+    {
+      "id": "Rammus",
+      "key": "33",
+      "name": "람머스",
+      "englishName": "Rammus",
+      "title": "중무장 아르마딜로",
+      "tags": [
+        "Tank"
+      ]
+    },
+    {
+      "id": "RekSai",
+      "key": "421",
+      "name": "렉사이",
+      "englishName": "Rek'Sai",
+      "title": "공허의 복병",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Rell",
+      "key": "526",
+      "name": "렐",
+      "englishName": "Rell",
+      "title": "철의 여인",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Renata",
+      "key": "888",
+      "name": "레나타 글라스크",
+      "englishName": "Renata Glasc",
+      "title": "화공 남작",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Renekton",
+      "key": "58",
+      "name": "레넥톤",
+      "englishName": "Renekton",
+      "title": "사막의 도살자",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Rengar",
+      "key": "107",
+      "name": "렝가",
+      "englishName": "Rengar",
+      "title": "추적하는 사자",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Riven",
+      "key": "92",
+      "name": "리븐",
+      "englishName": "Riven",
+      "title": "추방자",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Rumble",
+      "key": "68",
+      "name": "럼블",
+      "englishName": "Rumble",
+      "title": "기계 악동",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Ryze",
+      "key": "13",
+      "name": "라이즈",
+      "englishName": "Ryze",
+      "title": "룬 마법사",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Samira",
+      "key": "360",
+      "name": "사미라",
+      "englishName": "Samira",
+      "title": "사막의 장미",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Sejuani",
+      "key": "113",
+      "name": "세주아니",
+      "englishName": "Sejuani",
+      "title": "혹한의 분노",
+      "tags": [
+        "Tank"
+      ]
+    },
+    {
+      "id": "Senna",
+      "key": "235",
+      "name": "세나",
+      "englishName": "Senna",
+      "title": "구원자",
+      "tags": [
+        "Support",
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Seraphine",
+      "key": "147",
+      "name": "세라핀",
+      "englishName": "Seraphine",
+      "title": "노래하는 별",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Sett",
+      "key": "875",
+      "name": "세트",
+      "englishName": "Sett",
+      "title": "우두머리",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Shaco",
+      "key": "35",
+      "name": "샤코",
+      "englishName": "Shaco",
+      "title": "악마 어릿광대",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Shen",
+      "key": "98",
+      "name": "쉔",
+      "englishName": "Shen",
+      "title": "황혼의 눈",
+      "tags": [
+        "Tank"
+      ]
+    },
+    {
+      "id": "Shyvana",
+      "key": "102",
+      "name": "쉬바나",
+      "englishName": "Shyvana",
+      "title": "하프 드래곤",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Singed",
+      "key": "27",
+      "name": "신지드",
+      "englishName": "Singed",
+      "title": "미친 화학자",
+      "tags": [
+        "Tank",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Sion",
+      "key": "14",
+      "name": "사이온",
+      "englishName": "Sion",
+      "title": "언데드 학살병기",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Sivir",
+      "key": "15",
+      "name": "시비르",
+      "englishName": "Sivir",
+      "title": "전장의 여제",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Skarner",
+      "key": "72",
+      "name": "스카너",
+      "englishName": "Skarner",
+      "title": "태고의 군주",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Smolder",
+      "key": "901",
+      "name": "스몰더",
+      "englishName": "Smolder",
+      "title": "꼬마 불꽃용",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Sona",
+      "key": "37",
+      "name": "소나",
+      "englishName": "Sona",
+      "title": "현의 명인",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Soraka",
+      "key": "16",
+      "name": "소라카",
+      "englishName": "Soraka",
+      "title": "별의 아이",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Swain",
+      "key": "50",
+      "name": "스웨인",
+      "englishName": "Swain",
+      "title": "녹서스 대장군",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Sylas",
+      "key": "517",
+      "name": "사일러스",
+      "englishName": "Sylas",
+      "title": "해방된 자",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Syndra",
+      "key": "134",
+      "name": "신드라",
+      "englishName": "Syndra",
+      "title": "어둠의 여제",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "TahmKench",
+      "key": "223",
+      "name": "탐 켄치",
+      "englishName": "Tahm Kench",
+      "title": "강의 폭군",
+      "tags": [
+        "Tank",
+        "Support"
+      ]
+    },
+    {
+      "id": "Taliyah",
+      "key": "163",
+      "name": "탈리야",
+      "englishName": "Taliyah",
+      "title": "바위술사",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Talon",
+      "key": "91",
+      "name": "탈론",
+      "englishName": "Talon",
+      "title": "검의 그림자",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Taric",
+      "key": "44",
+      "name": "타릭",
+      "englishName": "Taric",
+      "title": "발로란의 방패",
+      "tags": [
+        "Support",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Teemo",
+      "key": "17",
+      "name": "티모",
+      "englishName": "Teemo",
+      "title": "날쌘 정찰병",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Thresh",
+      "key": "412",
+      "name": "쓰레쉬",
+      "englishName": "Thresh",
+      "title": "지옥의 간수",
+      "tags": [
+        "Support",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Tristana",
+      "key": "18",
+      "name": "트리스타나",
+      "englishName": "Tristana",
+      "title": "요들 사수",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Trundle",
+      "key": "48",
+      "name": "트런들",
+      "englishName": "Trundle",
+      "title": "트롤 왕",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Tryndamere",
+      "key": "23",
+      "name": "트린다미어",
+      "englishName": "Tryndamere",
+      "title": "야만전사 왕",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "TwistedFate",
+      "key": "4",
+      "name": "트위스티드 페이트",
+      "englishName": "Twisted Fate",
+      "title": "카드의 달인",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Twitch",
+      "key": "29",
+      "name": "트위치",
+      "englishName": "Twitch",
+      "title": "역병 쥐",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Udyr",
+      "key": "77",
+      "name": "우디르",
+      "englishName": "Udyr",
+      "title": "정령 주술사",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Urgot",
+      "key": "6",
+      "name": "우르곳",
+      "englishName": "Urgot",
+      "title": "살상 병기",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Varus",
+      "key": "110",
+      "name": "바루스",
+      "englishName": "Varus",
+      "title": "응징의 화살",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Vayne",
+      "key": "67",
+      "name": "베인",
+      "englishName": "Vayne",
+      "title": "어둠 사냥꾼",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Veigar",
+      "key": "45",
+      "name": "베이가",
+      "englishName": "Veigar",
+      "title": "악의 작은 지배자",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Velkoz",
+      "key": "161",
+      "name": "벨코즈",
+      "englishName": "Vel'Koz",
+      "title": "공허의 눈",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "Vex",
+      "key": "711",
+      "name": "벡스",
+      "englishName": "Vex",
+      "title": "우울주의자",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Vi",
+      "key": "254",
+      "name": "바이",
+      "englishName": "Vi",
+      "title": "필트오버의 집행자",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Viego",
+      "key": "234",
+      "name": "비에고",
+      "englishName": "Viego",
+      "title": "몰락한 왕",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Viktor",
+      "key": "112",
+      "name": "빅토르",
+      "englishName": "Viktor",
+      "title": "아케인의 전령관",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Vladimir",
+      "key": "8",
+      "name": "블라디미르",
+      "englishName": "Vladimir",
+      "title": "진홍빛 사신",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Volibear",
+      "key": "106",
+      "name": "볼리베어",
+      "englishName": "Volibear",
+      "title": "무자비한 폭풍",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Warwick",
+      "key": "19",
+      "name": "워윅",
+      "englishName": "Warwick",
+      "title": "자운의 고삐 풀린 분노",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Xayah",
+      "key": "498",
+      "name": "자야",
+      "englishName": "Xayah",
+      "title": "저항하는 자",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Xerath",
+      "key": "101",
+      "name": "제라스",
+      "englishName": "Xerath",
+      "title": "초월한 마법사",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    },
+    {
+      "id": "XinZhao",
+      "key": "5",
+      "name": "신 짜오",
+      "englishName": "Xin Zhao",
+      "title": "데마시아의 호위무사",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Yasuo",
+      "key": "157",
+      "name": "야스오",
+      "englishName": "Yasuo",
+      "title": "용서받지 못한 자",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Yone",
+      "key": "777",
+      "name": "요네",
+      "englishName": "Yone",
+      "title": "잊히지 못한 자",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Yorick",
+      "key": "83",
+      "name": "요릭",
+      "englishName": "Yorick",
+      "title": "영혼의 길잡이",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+      "id": "Yunara",
+      "key": "804",
+      "name": "유나라",
+      "englishName": "Yunara",
+      "title": "꺾이지 않는 신념",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Yuumi",
+      "key": "350",
+      "name": "유미",
+      "englishName": "Yuumi",
+      "title": "마법 고양이",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Zaahen",
+      "key": "904",
+      "name": "자헨",
+      "englishName": "Zaahen",
+      "title": "저물지 않는 자",
+      "tags": [
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Zac",
+      "key": "154",
+      "name": "자크",
+      "englishName": "Zac",
+      "title": "비밀 병기",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "Zed",
+      "key": "238",
+      "name": "제드",
+      "englishName": "Zed",
+      "title": "그림자의 주인",
+      "tags": [
+        "Assassin"
+      ]
+    },
+    {
+      "id": "Zeri",
+      "key": "221",
+      "name": "제리",
+      "englishName": "Zeri",
+      "title": "자운의 불꽃",
+      "tags": [
+        "Marksman"
+      ]
+    },
+    {
+      "id": "Ziggs",
+      "key": "115",
+      "name": "직스",
+      "englishName": "Ziggs",
+      "title": "마법공학 폭파병",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Zilean",
+      "key": "26",
+      "name": "질리언",
+      "englishName": "Zilean",
+      "title": "시간의 수호자",
+      "tags": [
+        "Support",
+        "Mage"
+      ]
+    },
+    {
+      "id": "Zoe",
+      "key": "142",
+      "name": "조이",
+      "englishName": "Zoe",
+      "title": "여명의 성위",
+      "tags": [
+        "Mage"
+      ]
+    },
+    {
+      "id": "Zyra",
+      "key": "143",
+      "name": "자이라",
+      "englishName": "Zyra",
+      "title": "가시 덩굴의 복수",
+      "tags": [
+        "Mage",
+        "Support"
+      ]
+    }
+  ]
+}
