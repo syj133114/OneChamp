@@ -5,23 +5,34 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && tsc -p tsconfig.server.json && vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node tests/core.test.mjs",
-    "data:refresh": "node scripts/update-champions.mjs"
+    "test": "node tests/core.test.mjs && tsx tests/server.test.ts",
+    "data:refresh": "node scripts/update-champions.mjs",
+    "dev:api": "node scripts/dev-api.mjs",
+    "db:migrate:local": "wrangler d1 migrations apply onechamp-local --local --config wrangler.local.jsonc",
+    "check:server": "tsc -p tsconfig.server.json",
+    "test:live": "node scripts/test-live.mjs",
+    "db:configure": "node scripts/configure-d1.mjs"
   },
   "dependencies": {
+    "lucide-react": "^0.468.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "lucide-react": "^0.468.0"
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261026.1",
+    "@tailwindcss/vite": "^4.1.17",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.17",
+    "tsx": "^4.23.15",
     "typescript": "~5.9.3",
     "vite": "^7.2.2",
-    "tailwindcss": "^4.1.17",
-    "@tailwindcss/vite": "^4.1.17"
+    "wrangler": "^4.152.0"
+  },
+  "overrides": {
+    "undici": "^7.30.1"
   }
 }

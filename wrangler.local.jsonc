@@ -1,0 +1,10 @@
+{
+  "name": "onechamp-local",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-10-26",
+  "vars": { "APP_ENV": "development", "RIOT_KEY_MODE": "development" },
+  "d1_databases": [{
+    "binding": "DB", "database_name": "onechamp-local",
+    "database_id": "00000000-0000-0000-0000-000000000001", "migrations_dir": "migrations"
+  }]
+}

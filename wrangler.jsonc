@@ -1,5 +1,9 @@
 {
   "name": "onechamp",
   "pages_build_output_dir": "./dist",
-  "compatibility_date": "2026-10-26"
+  "compatibility_date": "2026-10-26",
+  "vars": {
+    "APP_ENV": "production",
+    "RIOT_KEY_MODE": "production"
+  }
 }

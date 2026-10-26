@@ -1,1 +1,1 @@
-/* /index.html 200
+# Hash-based navigation needs no redirect rule. Pages serves index.html at the root.

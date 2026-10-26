@@ -1,0 +1,6 @@
+# Copy to .dev.vars (ignored). Used only by local Pages Functions.
+RIOT_API_KEY=
+APP_ENV=development
+RIOT_KEY_MODE=development
+# Required on hosted deployments; optional on localhost development.
+ADMIN_TOKEN=
